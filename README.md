@@ -1,5 +1,3 @@
-Here's a README for your IOAI TST in Kazakhstan solution, based on the provided code:
-
 -----
 
 # Image Restoration for IOAI TST in Kazakhstan
